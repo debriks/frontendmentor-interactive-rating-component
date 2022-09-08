@@ -42,7 +42,7 @@ p {
 .main-container,
 .thank-you {
   background-color: var(--dark-blue);
-  padding: 1.5rem;
+  padding: 2rem;
   border-radius: 2rem;
   max-width: 400px;
 }
